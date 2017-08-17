@@ -1,1 +1,2 @@
 476: mask to prevent high pisition to 1
+657: using ch faster than int
